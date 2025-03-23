@@ -1,3 +1,18 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cRuHHjRd)
+nerate a summary of active devices, unlocked doors, and recent motion detections.
+- Exit Program: Stop execution.
+
+## Constraints :
+
+1.Must use only Arrays and Functions (No Structs, No Pointers, No Global Variables).
+2.The entire system should be menu-driven (switch-case implementation).
+3.Arrays should be dynamically sized based on user input (rooms & devices).
+4.Only use basic C operations (No advanced data structures like linked lists or queues).
+
+## Example (Output)
+
+Enter number of rooms: 3  
+Initializing system...  
 # Assignment | C Programming 
 
 A Smart Home Automation System is being designed to manage and monitor different appliances and sensors in a house. Since the hardware is not available, You will simulate this system using standard C programming with GCC.
@@ -17,21 +32,7 @@ The Task is to develop a menu-driven program to control and monitor devices like
 - Read Temperature: Display stored temperature for any room.
 - Detect Motion: Check if any motion is detected.
 - Security System: Lock/Unlock doors manually.
-- Analyze House Status: Generate a summary of active devices, unlocked doors, and recent motion detections.
-- Exit Program: Stop execution.
-
-## Constraints :
-
-1.Must use only Arrays and Functions (No Structs, No Pointers, No Global Variables).
-2.The entire system should be menu-driven (switch-case implementation).
-3.Arrays should be dynamically sized based on user input (rooms & devices).
-4.Only use basic C operations (No advanced data structures like linked lists or queues).
-
-## Example (Output)
-
-Enter number of rooms: 3  
-Initializing system...  
-
+- Analyze House Status: Ge
 ===== Smart Home Menu =====  
 1. Toggle Light  
 2. Read Temperature  
